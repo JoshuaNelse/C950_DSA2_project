@@ -1,6 +1,3 @@
-# Name: Joshua Shaver
-# Student ID: #001181842
-
 from CsvHelper import distance_table_to_hash_map, package_table_to_hash_map
 from TruckManager import TruckManager as Tm
 
